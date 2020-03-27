@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/jorgebucaran/fish-nvm
+maintainer = jorgebucaran
+description = Pure-fish, Node.js version manager

@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/danhper/fish-fastdir
+maintainer = danhper
+description = Fast directory navigation for fish

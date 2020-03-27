@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/barnybug/docker-fish-completion
+maintainer = barnybug
+description = Docker command completion for the fish shell

@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/jethrokuan/z
+maintainer = jethrokuan
+description = Pure-fish z directory jumping

@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/laughedelic/pisces
+maintainer = laughedelic
+description = Fish shell plugin that helps you to work with paired symbols in the command line
