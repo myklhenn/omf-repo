@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/franciscolourenco/done
+maintainer = franciscolourenco
+description = A fish-shell package to automatically receive notifications when long processes finish
