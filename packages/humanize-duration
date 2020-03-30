@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/fishpkg/fish-humanize-duration
+maintainer = fishpkg
+description = A fish shell package to make a time interval human readable
